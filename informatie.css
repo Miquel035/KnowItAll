@@ -1,0 +1,15 @@
+html{
+	background-image: url("tetris.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+
+.info{
+	height: 400px;
+	width: 20%;
+	border: 3px solid black;
+	background-color: #00ffe9;
+}
